@@ -1,0 +1,33 @@
+_repo: Rabevel-ou-le-mal-des-ardents-Volume-3-of-3_74488
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fabre, Lucien
+    alias: Fabré, Lucien
+    birthdate: 1889
+    deathdate: 1952
+    gutenberg_agent_id: '49889'
+    url: http://www.gutenberg.org/2009/agents/49889
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Lucien_Fabre
+    - https://fr.wikipedia.org/wiki/Lucien_Fabre
+description: ''
+gutenberg_issued: '2024-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74488'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.597598
+pgterms:marc905: 20230705153834fabre
+pgterms:marc906: '1923'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bNouvelle revue française, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Rabevel ou le mal des ardents, Volume 3 (of 3)
+url: http://www.gutenberg.org/ebooks/74488
