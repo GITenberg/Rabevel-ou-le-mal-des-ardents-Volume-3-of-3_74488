@@ -1,5 +1,8 @@
 _repo: Rabevel-ou-le-mal-des-ardents-Volume-3-of-3_74488
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74488-h/images/cover.jpg
 creator:
   author:
     agent_name: Fabre, Lucien
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Lucien_Fabre
     - https://fr.wikipedia.org/wiki/Lucien_Fabre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74488#Rabevel-ou-le-mal-des-ardents-Volume-3-of-3
 gutenberg_issued: '2024-09-27'
 gutenberg_type: Text
 identifiers:
